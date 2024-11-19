@@ -21,7 +21,8 @@ public class Rezervare
     public void addPersoana(Persoana persoana)
     {
         //doar daca este valid se va aduga
-        if (persoana.isValid())
+        
+        if (persoana.isValid()) //functia .isValid() din if ii functia din clasa persoana
         {
             Persoane.Add(persoana);
         }
