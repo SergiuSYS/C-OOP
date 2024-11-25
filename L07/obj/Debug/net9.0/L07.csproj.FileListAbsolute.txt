@@ -1,0 +1,14 @@
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/bin/Debug/net9.0/L07
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/bin/Debug/net9.0/L07.deps.json
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/bin/Debug/net9.0/L07.runtimeconfig.json
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/bin/Debug/net9.0/L07.dll
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/bin/Debug/net9.0/L07.pdb
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/obj/Debug/net9.0/L07.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/obj/Debug/net9.0/L07.AssemblyInfoInputs.cache
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/obj/Debug/net9.0/L07.AssemblyInfo.cs
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/obj/Debug/net9.0/L07.csproj.CoreCompileInputs.cache
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/obj/Debug/net9.0/L07.dll
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/obj/Debug/net9.0/refint/L07.dll
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/obj/Debug/net9.0/L07.pdb
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/obj/Debug/net9.0/L07.genruntimeconfig.cache
+/home/sergiu/Faculta/Semestrul_1/OOP/L07/L07/obj/Debug/net9.0/ref/L07.dll
